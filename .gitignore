@@ -32,6 +32,10 @@ bin/
 
 run/
 
+# custom
+
+*.bat
+
 # java
 
 hs_err_*.log
