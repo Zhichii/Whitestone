@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=true": {
+      "model": "whitestone:block/lamp_on"
+    },
+    "powered=false": {
+      "model": "whitestone:block/lamp_off"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.whitestone.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"OreConfiguredFeaturesMixin",
+		"OrePlacedFeaturesMixin",
+		"RepeaterBlockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "A": {
+      "item": "whitestone:dust"
+    },
+    "B": {
+      "item": "whitestone:lamp"
+    },
+    "C": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "pattern": [
+	"ABC",
+  ],
+  "result": {
+    "item": "whitestone:transformer_wtor"
+  },
+  "show_notification": true
+}

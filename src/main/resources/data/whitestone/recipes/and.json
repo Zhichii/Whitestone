@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "whitestone:dust"
+    }
+  },
+  "pattern": [
+    " # ",
+    "###"
+  ],
+  "result": {
+    "item": "whitestone:and"
+  },
+  "show_notification": true
+}

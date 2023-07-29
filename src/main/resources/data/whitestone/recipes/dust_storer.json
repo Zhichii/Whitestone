@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "whitestone:storer"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "item": "whitestone:dust"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "whitestone:dust"
+    }
+  },
+  "pattern": [
+    "# #"
+  ],
+  "result": {
+    "item": "whitestone:not"
+  },
+  "show_notification": true
+}

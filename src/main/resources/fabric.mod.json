@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "whitestone",
+	"version": "${version}",
+	"name": "Whitestone Mod",
+	"description": "Added \"Whitestone\" electric system similar to Redstone, but removed the delay, and let the signal can transform vertically. ",
+	"authors": [
+		"HlHill"
+	],
+	"contact": {
+		"homepage": "None",
+		"sources": "None"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/whitestone/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.whitestone.Whitestone"
+		],
+		"client": [
+			"com.whitestone.WhitestoneClient"
+		]
+	},
+	"mixins": [
+		"whitestone.mixins.json",
+		{
+			"config": "whitestone.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": ">=0.83.0"
+	}
+}

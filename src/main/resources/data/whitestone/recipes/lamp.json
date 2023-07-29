@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "whitestone:dust"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+	"GGG",
+    "G#G",
+    "GGG"
+  ],
+  "result": {
+    "item": "whitestone:lamp"
+  },
+  "show_notification": true
+}

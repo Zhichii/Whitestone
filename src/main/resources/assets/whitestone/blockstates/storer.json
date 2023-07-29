@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "whitestone:block/storer",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "whitestone:block/storer"
+    },
+    "facing=south": {
+      "model": "whitestone:block/storer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "whitestone:block/storer",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "modmenu.nameTranslation.whitestone": "白石模组",
+    "modmenu.descriptionTranslation.whitestone": "添加了与红石相似的\"白石\"电路, 但是移除了延迟, 并且让信号可以垂直传输. ",
+    "block.whitestone.single.meme": "维石东直放站",
+    "block.minecraft.repeater.meme": "雷石东直放站",
+    "block.whitestone.single": "白石传输器",
+    "block.whitestone.source": "白石能源",
+    "block.whitestone.and": "白石\"与\"操作符",
+    "block.whitestone.or": "白石\"或\"操作符",
+    "block.whitestone.not": "白石\"非\"操作符",
+    "block.whitestone.lamp": "白石灯",
+    "block.whitestone.lever": "白石拉杆",
+    "block.whitestone.storer": "白石存储器",
+    "block.whitestone.soft": "白石辅助块",
+    "block.whitestone.ore": "白石矿石",
+    "block.whitestone.deepslate_ore": "深层白石矿石",
+    "item.whitestone.dust": "白石碎末",
+    "block.whitestone.transformer_wtor": "白石转换红石器",
+    "block.whitestone.transformer_rtow": "红石转换白石器",
+    "itemGroup.whitestones": "白石电路"
+}

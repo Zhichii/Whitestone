@@ -1,0 +1,21 @@
+{
+    "modmenu.nameTranslation.whitestone": "Whitestone Mod",
+    "modmenu.descriptionTranslation.whitestone": "Added \"Whitestone\" electric system similar to Redstone, but removed the delay, and let the signal can transform vertically. ",
+    "block.whitestone.single.meme": "WeiShiDong Repeater",
+    "block.minecraft.repeater.meme": "LeiShiDong Repeater",
+    "block.whitestone.single": "Whitestone Transfer",
+    "block.whitestone.source": "Whitestone Energy Source",
+    "block.whitestone.and": "Whitestone \"And\" Operator",
+    "block.whitestone.or": "Whitestone \"Or\" Operator",
+    "block.whitestone.not": "Whitestone \"Not\" Operator",
+    "block.whitestone.lamp": "Whitestone Lantern",
+    "block.whitestone.lever": "Whitestone Lever",
+    "block.whitestone.storer": "Whitestone Storer",
+    "block.whitestone.soft": "Whitestone Helper Block",
+    "block.whitestone.ore": "Whitestone Ore",
+    "block.whitestone.deepslate_ore": "Deepslate Whitestone Ore",
+    "item.whitestone.dust": "Whitestone Powder",
+    "block.whitestone.transformer_wtor": "Whitestone to Redstone Transformer",
+    "block.whitestone.transformer_rtow": "Redstone to Whitestone Transformer",
+    "itemGroup.whitestones": "Whitestones"
+}

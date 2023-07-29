@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=true": {
+      "model": "whitestone:block/soft_on"
+    },
+    "powered=false": {
+      "model": "whitestone:block/soft_off"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "whitestone:block/lever_off"
+    },
+    "powered=true": {
+      "model": "whitestone:block/lever_on"
+    }
+  }
+}

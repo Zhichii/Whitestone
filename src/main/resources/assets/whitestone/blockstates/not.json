@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "whitestone:block/not",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "whitestone:block/not",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "whitestone:block/not",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "whitestone:block/not",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "whitestone:block/not"
+    },
+    "facing=west": {
+      "model": "whitestone:block/not",
+      "x": 90,
+      "y": 270
+    }
+  }
+}
